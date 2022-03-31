@@ -1,0 +1,2 @@
+Time Stamp, Real Time (s), Simulation Time (s), # of Worker-Worker Connections, Average Travel Speed (km/h)
+Thu Mar 11 16:52:46 CST 2021,411.0,54.27430680199999,0,14.852290236799766

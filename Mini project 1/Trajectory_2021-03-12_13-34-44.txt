@@ -1,0 +1,1 @@
+Trajectory ID,Vehicle ID,Vehicle Type,Time Stamp,Latitude,Longitude
